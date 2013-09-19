@@ -1,0 +1,12 @@
+Changes
+lib/Carp/Always/EvenObjects.pm
+lib/Carp/Always/EvenObjects/Hacks.pm
+lib/Devel/Confess.pm
+maint/Makefile.PL.include
+Makefile.PL
+MANIFEST			This list of files
+t/carp.t
+t/leak.t
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
+README                                   README file (added by Distar)
