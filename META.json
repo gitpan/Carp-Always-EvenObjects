@@ -31,6 +31,7 @@
       "runtime" : {
          "requires" : {
             "Carp" : "0",
+            "Scalar::Util" : "0",
             "perl" : "v5.6.0"
          }
       },
@@ -56,5 +57,5 @@
          "web" : "https://github.com/haarg/Carp-Always-EvenObjects"
       }
    },
-   "version" : "0.002000"
+   "version" : "0.002001"
 }
