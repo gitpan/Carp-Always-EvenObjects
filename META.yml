@@ -26,4 +26,4 @@ resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Carp-Always-EvenObjects
   license: http://dev.perl.org/licenses/
   repository: git://github.com/haarg/Carp-Always-EvenObjects
-version: 0.002001
+version: 0.002002
