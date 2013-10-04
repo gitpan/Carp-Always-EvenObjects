@@ -1,5 +1,5 @@
 ---
-abstract: 'Warns and dies noisily with stack backtraces'
+abstract: DEPRECATED
 author:
   - 'haarg - Graham Knop (cpan:HAARG) <haarg@haarg.org>'
 build_requires:
@@ -19,11 +19,10 @@ no_index:
     - t
     - inc
 requires:
-  Carp: 0
-  Scalar::Util: 0
+  Devel::Confess: 0.003000
   perl: v5.6.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Carp-Always-EvenObjects
   license: http://dev.perl.org/licenses/
   repository: git://github.com/haarg/Carp-Always-EvenObjects
-version: 0.002002
+version: 0.003000
